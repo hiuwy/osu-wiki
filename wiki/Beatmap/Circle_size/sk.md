@@ -1,7 +1,7 @@
 ---
-tagy:
+tags:
   - CS
-  - počet tlačidiel
+  - key count
 ---
 
 # Veľkosť kruhov
